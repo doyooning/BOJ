@@ -2,7 +2,7 @@ package bronze;
 
 import java.util.Scanner;
 
-public class no_3052 {
+public class no_3052 { // 나머지
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] N = new int[42];

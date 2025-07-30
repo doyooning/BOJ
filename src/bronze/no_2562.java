@@ -2,7 +2,7 @@ package bronze;
 
 import java.util.Scanner;
 
-public class no_2562 {
+public class no_2562 { // 최댓값
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = 0;
